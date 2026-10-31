@@ -1,0 +1,7 @@
+{
+  "display_name": "ST Phone",
+  "name": "st_phone_sim",
+  "version": "1.0.0",
+  "description": "실리태번 폰 및 SNS 시뮬레이터 확장",
+  "author": "User"
+}
